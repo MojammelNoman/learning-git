@@ -1,1 +1,3 @@
 git is awesome.and it's easy to learn. i love it .
+
+our first commit done after this line we'll commit our second commit.
